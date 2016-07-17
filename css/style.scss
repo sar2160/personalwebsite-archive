@@ -10,7 +10,7 @@
 
 html {
   font-family: $font-family;
-  font-size:   20px;
+  font-size:   16px;
   line-height: 1.5;
 }
 
@@ -29,7 +29,7 @@ a {
   strong {
     color: inherit;
   }
-  
+
   &:hover,
   &:focus {
     text-decoration: underline;
@@ -118,7 +118,7 @@ pre {
     color: inherit;
     background-color: transparent;
   }
-}  
+}
 
 
 /////////////////////
@@ -177,6 +177,12 @@ table {
   padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
+
+.container-footer {
+  font-size: 70%;
+  padding-top: 3rem;
+
+}
 }
 
 ///////////////////////////////////////////////////
@@ -191,11 +197,11 @@ table {
     margin-top: 0;
     margin-bottom: 0;
     color: $masthead-color;
-  
+
     a {
       color: $masthead-color;
     }
-    
+
     small {
       color: $masthead-small-color;
       font-size: 75%;
@@ -231,5 +237,5 @@ table {
 }
 
 .post-date {
-  color: $post-date-color;  
+  color: $post-date-color;
 }
