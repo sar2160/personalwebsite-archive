@@ -10,7 +10,7 @@
 
 html {
   font-family: $font-family;
-  font-size:   16px;
+  font-size:   18px;
   line-height: 1.5;
 }
 
@@ -210,6 +210,19 @@ table {
     }
   }
 }
+
+/////////
+// CV
+
+.cv {
+  margin-bottom: 2em;
+
+  .cv-detail {
+    font-size: 50%;
+  }
+
+}
+
 
 
 //////////////////////////
