@@ -34,6 +34,14 @@
 </div>
 
 </div><!-- .container -->
+
+
+{% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+
+
+    
 </body>
 
 <div class="container">
