@@ -36,4 +36,4 @@ to cause the urn to fill overwhelmingly with Black balls over time.
 <img src="assets/biased_polya.gif" alt="A biased polya process" style= "width: 400px;" align="center"/>
 
 
-Page describes many other processes that are more interesting and I have yet to get to all of them. Maybe over time. I find the exercise to be a very useful way to look at the spread of social institutions over time.
+Page describes many other processes that are more interesting and I have yet to get to all of them; maybe I'll fill them in over time. I find the exercise to be a very useful way to look at the spread of social institutions over time.
