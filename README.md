@@ -1,4 +1,3 @@
-This is a landing site I'm building very slowly. That's all. 
+This is an older version of a personal website I built using a jekyll template. It is no longer in use. 
 
 
-https://sar2160.github.io
